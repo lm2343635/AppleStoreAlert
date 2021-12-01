@@ -1,0 +1,11 @@
+apple:
+  base: MLUK3J/A
+  products:
+    - iPhone13Pro128GB
+    - iPhone13Pro256GB
+    - iPhone13ProMax128GB
+    - iPhone13ProMax256GB
+  slack: https://hooks.slack.com/services/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
+  stores:
+    - R005
+    - R718
